@@ -24,9 +24,9 @@ o número de casas = 3:
 
 ## Regras
 
-As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para
+- As mensagens serão convertidas para minúsculas tanto para a criptografia quanto para
 descriptografia.
-No nosso caso os números e pontos serão mantidos, ou seja:
+- No nosso caso os números e pontos serão mantidos, ou seja:
 
 **Normal:** 1a.a
 
